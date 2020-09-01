@@ -1,0 +1,25 @@
+{
+  "name": "node-black",
+  "version": "0.0.0",
+  "description": "Emulated PLC runtime",
+  "main": "node-black.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jozo132/node-black.git"
+  },
+  "keywords": [
+    "Node.JS",
+    "Node",
+    "PLC",
+    "Controller"
+  ],
+  "author": "J.Vovk",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Jozo132/node-black/issues"
+  },
+  "homepage": "https://github.com/Jozo132/node-black#readme"
+}
