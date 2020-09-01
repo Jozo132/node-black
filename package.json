@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Jozo132/node-black/issues"
   },
-  "homepage": "https://github.com/Jozo132/node-black#readme"
+  "homepage": "https://github.com/Jozo132/node-black#readme",
+  "dependencies": {
+    "np": "^6.5.0"
+  }
 }
